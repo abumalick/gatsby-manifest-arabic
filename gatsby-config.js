@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'هذا مثال',
-        short_name: 'مثال',
+        name: 'مثال.كوم',
+        short_name: 'مثال.كوم',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',
