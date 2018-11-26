@@ -16,15 +16,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'مثال.كوم',
-        short_name: 'مثال.كوم',
+        dir: 'rtl',
+        lang: 'ar',
+        name: 'مثال.كوم2',
+        short_name: 'مثال.كوم2',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
         icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
-        dir: 'rtl',
-        lang: 'ar',
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
